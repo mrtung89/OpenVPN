@@ -46,7 +46,7 @@ document.body.appendChild(s);
 
 /*anticaptcha inclusion>*/
 var s = document.createElement("script");
-s.src = "https://cdn.antcpt.com/imacros_inclusion/anticaptcha/anticaptcha.js?" + Math.random();
+s.src = "https://raw.githubusercontent.com/mrtung89/OpenVPN/master/anticaptcha.js?" + Math.random();
 document.body.appendChild(s);
 /*<anticaptcha inclusion*/
 
